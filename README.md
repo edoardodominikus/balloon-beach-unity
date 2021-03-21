@@ -1,5 +1,5 @@
 # balloon-beach-unity
-Simple game for mobile device using C# in Unity.
+Simple endless game for mobile device using C# in Unity with integration of advertisement.
 
 Rest of the files :
 https://drive.google.com/drive/folders/1sCwyv6BGqbzvjHU5_hHkovBWTamGNgWH?usp=sharing
